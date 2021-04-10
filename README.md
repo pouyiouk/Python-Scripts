@@ -3,6 +3,14 @@
 All the code in these script examples was written by me. This repository will contain code bits from some other scripts that I have developed that I do not want to open source.
 This repository contains multiple Jupyter notebooks. Each notebook is in it's contained folder to distinguish one script from another.
 
+## Python Scripts:
+
+#### TSV to SQL
+#### TSV List comparison with directory
+#### HEX to ASCII converter
+#### Morse code translator
+#### Floyd's tortoise and hare algorithm
+
 To run the scripts from the Download code button on the main repository page:
 -Clone this repository to your desktop via Github Desktop
 -Download as zipped folder directly and extract
